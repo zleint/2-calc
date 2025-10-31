@@ -93,3 +93,5 @@ func medOperation(slice []int) {
 		fmt.Printf("Медиана: %.2f\n", median)
 	}
 }
+
+//stop
